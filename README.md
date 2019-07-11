@@ -1,7 +1,8 @@
 # cimmsim-exe
 C-ImmSim Linux executable
 
-This material is relative to a paper (Castiglione et al., 2019) that is currently under review.
+This material is relative to the paper (Castiglione et al., 2019) available at
+https://www.frontiersin.org/articles/10.3389/fimmu.2019.01513/full
 
 It contains the executable of the immune system simulator called C-ImmSim compiled for Intel/Linux machines:
 
